@@ -517,7 +517,7 @@
       rgb(235, 152, 78, 0.35),
       rgb(230, 126, 34, 0.35)
     ),
-    url("../img/eating.jpg");
+    url("img/eating.jpg");
   background-size: cover;
   background-position: center;
 }
